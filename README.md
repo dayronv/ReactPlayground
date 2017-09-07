@@ -1,2 +1,2 @@
 # ReactPlayground
-My work on some React examples
+My work with React
