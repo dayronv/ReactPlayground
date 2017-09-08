@@ -1,0 +1,60 @@
+.outLine
+{
+   border: solid 1px #CDCDCD;
+   width: 170px;
+   height: 212px;
+}
+
+.ticketHeader
+{
+   height: 1.1em;
+   background-color: yellow;
+   width: 100%;
+   font-size: 0.8em;
+   line-height: 1.2em;
+   border-bottom: solid 1px blue;
+   font-family: Lucida Console;
+   text-align: center;
+}
+
+.ticketField-left
+{
+   height: 17px;
+   width: 40%;
+   background-color: lightblue;
+   border-bottom: solid 1px blue;
+   border-right: solid 1px blue;
+   text-align: center;
+   float: left;
+}
+
+.ticketField-left:hover
+{
+   background-color: lightgrey;
+}
+
+.ticketField-right
+{
+   height: 17px;
+   width: 58%;
+   background-color: lightblue;
+   border-bottom: solid 1px blue;
+   border-right: solid 1px blue;
+   text-align: center;
+   float: right;
+}
+
+.ticketField-right:hover
+{
+   background-color: lightgrey;
+}
+
+.searchBar
+{
+   width: 340px;
+   height: 20px;
+   background-color: lightgrey;
+   border: solid 1px black;
+   margin-bottom: 20px;
+   color: grey;
+}

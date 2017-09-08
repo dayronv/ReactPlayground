@@ -1,0 +1,112 @@
+.outLine
+{
+   border: solid 1px #CDCDCD;
+   width: 550px;
+   height: 336px;
+}
+
+.inLine
+{
+   position: relative;
+   left: 14px;
+   top: 32px;
+}
+
+.inputStyle
+{
+   margin-bottom: 10px;
+   width: 520px;
+   height: 40px;
+   text-align: right;
+   background-color: #F2F8FC;
+   border-top: solid 4px #0072C5;
+   border-left: solid 1px #BFDCF0;
+   border-bottom: solid 1px #BFDCF0;
+   border-right: solid 1px #BFDCF0;
+   font-size: 2em;
+}
+
+.inputStyle:hover
+{
+   border-left: solid 1px #0072C5;
+   border-bottom: solid 1px #0072C5;
+   border-right: solid 1px #0072C5;
+}
+
+.fontPadding
+{
+   padding-right: 10px;
+}
+
+.regButton
+{
+   width: 66px;
+   height: 40px;
+   margin: 4px;
+   background-color: #EEEEEE;
+   border: solid 1px #DDDDDD;
+   font-size: 1.05em;
+}
+
+.regButton:hover
+{
+   background-color: #DDDDDD;
+   cursor: pointer;
+}
+
+.darkButton
+{
+   width: 66px;
+   height: 40px;
+   margin: 4px;
+   background-color: #D1D1D1;
+   border: solid 1px #C1C1C1;
+   font-size: 1.05em;
+}
+
+.darkButton:hover
+{
+   background-color: #C1C1C1;
+   cursor: pointer;
+}
+
+.blueButton
+{
+   width: 66px;
+   height: 40px;
+   margin: 4px;
+   background-color: #0072C5;
+   border: solid 1px #0072C5;
+   font-size: 1.05em;
+   color: white;
+}
+
+.blueButton:hover
+{
+   cursor: pointer;
+   background-color: #0062C5;
+   border: solid 1px #0062C5;
+}
+
+.ticExp
+{
+   width: 100px;
+   height: 50px;
+   border: solid 1px darkgrey;
+   background-color: darkblue;
+   text-align: center;
+   line-height: 50px;
+   color: white;
+   font-weight: bold;
+}
+
+.ticExp:hover
+{
+   border: solid 1px black;
+   background-color: grey;
+   text-align: center;
+   line-height: 50px;
+   color: white;
+   font-weight: bold;
+   cursor: pointer;
+}
